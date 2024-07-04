@@ -1,0 +1,22 @@
+.kavi{
+    padding-left: 450px;
+    margin:5px;
+    border: 4px solid black;
+    background-color:powderblue;
+}
+h3{
+    padding-top:10px;
+    margin: 60px;
+}
+input:focus{
+    background-color: bisque;
+
+}
+button:hover{
+    color:white;
+    background-color: black;
+}
+button{
+    border:2px solid black;
+    background-color:palevioletred;
+}
